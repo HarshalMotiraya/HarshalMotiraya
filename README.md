@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello! 👋
 
-<!--
-**HarshalMotiraya/HarshalMotiraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Harshal Motiarya,
+I’m currently pursuing a B.Tech in Computer Science  Engineering with a focus on Artificial Intelligence. My passion lies
+in Artificial Intelligence (AI) and Cyber Security . I’m fascinated by how AI works and the logic behind it, and I’m eager
+to dive deeper into this field.
 
-Here are some ideas to get you started:
+What I’m Doing-
+Studying: Engaged in my studies with a keen interest in AI and Cyber Security.
+Exploring: Learning about various AI algorithms, data processing techniques, and machine learning models.
+Building: Working on personal projects to apply and expand my knowledge in AI and CyberSecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests-
+AI: Understanding how artificial intelligence systems are designed and function.
+CyberSecurity: Exploring .
